@@ -1,3 +1,3 @@
 # ccfactory
 
-Factory for compiler toolchains based on Dockerfiles
+Factory for compiler toolchains using Dockerfiles
